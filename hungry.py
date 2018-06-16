@@ -7,3 +7,6 @@ else:
     print("drink water")
     print("drink Soda")
 
+else:
+    print("take juice")
+    print("go to sleep")
